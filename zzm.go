@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bufio"
-	"dm/util"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"io"
 	"os"
 	"runtime"

@@ -8,8 +8,8 @@ package dm
 import (
 	"context"
 	"database/sql/driver"
-	"dm/util"
 	"fmt"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"io"
 	"reflect"
 	"strconv"

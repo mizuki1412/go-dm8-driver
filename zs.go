@@ -6,8 +6,8 @@
 package dm
 
 import (
-	"dm/util"
 	"fmt"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"math"
 	"strconv"
 	"strings"

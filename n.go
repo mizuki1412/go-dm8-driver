@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"context"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"net"
 	"net/url"
 	"os"

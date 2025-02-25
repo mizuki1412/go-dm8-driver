@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"math/rand"
 	"sync"
 	"time"

@@ -7,8 +7,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/i18n"
 	"fmt"
+	"github.com/mizuki1412/go-dm8-driver/i18n"
 	"runtime"
 )
 

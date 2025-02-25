@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/mizuki1412/go-dm8-driver/parser"
+	"github.com/mizuki1412/go-dm8-driver/util"
 	"strconv"
 	"strings"
 )
