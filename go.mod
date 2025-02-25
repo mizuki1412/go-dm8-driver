@@ -1,4 +1,4 @@
-module dm
+module github.com/mizuki1412/go-dm8-driver
 
 go 1.13
 
